@@ -1,4 +1,5 @@
 #### Laravel installation | Laravel API
+    - Objectives of this application is to build 
     - Install the Laravel Application
         laravel new music-social-network-api    
     - We gonna use an API tool called POSTMAN.
@@ -221,7 +222,11 @@
     - Implement the Delete functionality on the Post
     - Copy the code from DeleteYoutube.vue file
 
-
+## Build a Pinia Store in Vue 3 with Tailwind CSS | Profile Section
+    - The objective of this lesson is to make our application to use Multi user rather than single user.
+    - We gonna makee the Pinia store and change some logic
+    - We gonna duplicate the 
+    
 
 
 
